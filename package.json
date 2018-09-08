@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/L-Chris/puppeteer-starter-kit",
+  "author": "L-Chris <563303226@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
